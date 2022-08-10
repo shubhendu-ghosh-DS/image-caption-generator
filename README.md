@@ -14,3 +14,6 @@
 - [tqdm](https://tqdm.github.io/)
 ## we are also using pretrained model [xception](https://keras.io/api/applications/xception/) for this project  
 ### please refer to notebook for detailed project
+
+## Data
+### the dataset for this project can be found [here](https://www.kaggle.com/code/shubhendughosh00/image-caption-generator/data?scriptVersionId=102940807&select=Flickr8k_Dataset)
